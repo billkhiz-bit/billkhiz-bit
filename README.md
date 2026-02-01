@@ -1,12 +1,12 @@
 # Hi, I'm Bill
 
-**Founder of NK & Co Accountancy** | London, UK
+**Currently work in Accounting** | London, UK
 
 I'm a self-taught developer and Bayes Business School graduate building AI-powered automation tools for the accounting industry.
 
 ## What I Do
 
-- Run **NK & Co**, an accountancy practice in London
+- Help **NK & Co**, an accountancy practice in London
 - Build AI agents and automation tools to streamline accounting workflows
 - Focus on integrations with **Sage**, **HMRC**, and financial data processing
 
