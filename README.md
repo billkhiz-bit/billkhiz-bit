@@ -1,34 +1,34 @@
 # Hi, I'm Bill
 
-**Currently work in Accounting** | London, UK
+**Head of Systems & Automation @ NK & Co** | London, UK
 
-I'm a self-taught developer and Bayes Business School graduate building AI-powered automation tools for the accounting industry.
+I'm a Bayes Business School graduate building AI-powered automation tools for the accounting industry. I combine domain expertise in UK accounting and finance with hands-on development to solve real workflow problems.
 
 ## What I Do
 
-- Help **NK & Co**, an accountancy practice in London
-- Build AI agents and automation tools to streamline accounting workflows
-- Focus on integrations with **Sage**, **HMRC**, and financial data processing
+- Lead automation and AI initiatives at **NK & Co**, an accountancy practice in London
+- Build tools that streamline bookkeeping, compliance tracking, and payroll processes
+- Integrate with **Sage**, **HMRC**, **Companies House**, and UK banking systems
 
 ## Featured Projects
 
-- **Gemini Financial Literacy Companion** - AI-powered financial education tool (Google Gemini API)
-- **Accounting Agent** - Multi-agent Python system for Sage and HMRC integration
-- **Desktop Automation Agent** - React + Python application for automating PC tasks
-- **Bookkeeping Categorizer** - ML-powered transaction categorisation tool
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Bookkeeping Categoriser](https://github.com/billkhiz-bit/bookkeeping-categoriser) | ML-powered bank transaction categorisation with UK nominal codes, rule engine, and Sage-ready Excel output | Python, scikit-learn, pandas |
+| [Desktop Automation Agent](https://github.com/billkhiz-bit/desktop-automation-agent) | AI desktop agent with multi-provider LLM support for task planning and execution | Python, FastAPI, PyAutoGUI |
+| [Sterling Visionary Guard](https://github.com/billkhiz-bit/Sterling-Visionary-Guard) | Voice-first assistant for visually impaired users — document scanning and financial scam detection | TypeScript, React, Gemini API |
 
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Google AI](https://img.shields.io/badge/-Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ## Connect
 
 - Business: [NK & Co Accountancy](https://nkandco.co.uk)
 - Email: billkhiz@gmail.com
-
----
-
-*Building the future of accounting, one automation at a time.*
+- GitHub: [billkhiz-bit](https://github.com/billkhiz-bit)
