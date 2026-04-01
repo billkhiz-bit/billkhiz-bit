@@ -15,9 +15,9 @@ Bayes Business School graduate building AI-powered tools for the UK accounting i
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Siraj — The Lamp](https://siraj-ept.pages.dev) | Interactive 3D Qur'an & Hadith data visualisation. 10 exploration modes covering 114 surahs, 6,236 ayahs, 37 narrators, 25 prophets, and 99 Names of Allah. | Next.js 16, Three.js, MapLibre GL, shadcn/ui |
-| [Noor — Islamic Companion](https://noor-companion.com) | Multi-platform app (web + Android + iOS) with 15 feature modules, multi-language support, and cloud sync. Live on the App Store and Google Play. | TypeScript, React, Zustand, Supabase, Capacitor, Tailwind |
-| [Sterling Visionary Guard](https://github.com/billkhiz-bit/Sterling-Visionary-Guard) | Voice-first assistant for visually impaired users — document scanning, financial scam detection, and accessible bill comparison | TypeScript, React, Gemini API, Web Speech API |
+| [Siraj - The Lamp](https://siraj-ept.pages.dev) | Interactive 3D Qur'an & Hadith data visualisation. 10 exploration modes covering 114 surahs, 6,236 ayahs, 37 narrators, 25 prophets, and 99 Names of Allah. | Next.js 16, Three.js, MapLibre GL, shadcn/ui |
+| [Noor - Islamic Companion](https://noor-companion.com) | Multi-platform app (web + Android + iOS) with 15 feature modules, multi-language support, and cloud sync. Live on the App Store and Google Play. | TypeScript, React, Zustand, Supabase, Capacitor, Tailwind |
+| [Sterling Visionary Guard](https://github.com/billkhiz-bit/Sterling-Visionary-Guard) | Voice-first assistant for visually impaired users - document scanning, financial scam detection, and accessible bill comparison | TypeScript, React, Gemini API, Web Speech API |
 | [Bookkeeping Categoriser](https://github.com/billkhiz-bit/bookkeeping-categoriser) | ML-powered bank transaction categorisation with UK nominal codes, rule engine, and Sage-ready Excel output | Python, scikit-learn, pandas |
 | [Desktop Automation Agent](https://github.com/billkhiz-bit/desktop-automation-agent) | AI desktop agent with multi-provider LLM support for task planning and execution | Python, FastAPI, PyAutoGUI |
 
@@ -27,7 +27,7 @@ Bayes Business School graduate building AI-powered tools for the UK accounting i
 |-------------|---------|--------|
 | Ramadan Hacks 2026 | Siraj | Submitted, awaiting results |
 | Quran Foundation Hackathon | Siraj | In progress (deadline Apr 20) |
-| Google DeepMind — Measuring AGI | UK Bookkeeping Benchmark | Submitted (95% score), results June 1 |
+| Google DeepMind - Measuring AGI | UK Bookkeeping Benchmark | Submitted (95% score), results June 1 |
 | Gemini 3 Hackathon (34K participants) | Sterling | Awaiting results |
 | Amazon Nova Hackathon | LedgerAgent | Awaiting results |
 | AWS AIdeas (10K+ submissions) | LedgerAgent | Semifinalist (top ~1,000) |
@@ -37,7 +37,7 @@ Bayes Business School graduate building AI-powered tools for the UK accounting i
 | Repo | Contribution | Status |
 |------|-------------|--------|
 | [django-ledger](https://github.com/arrobalytics/django-ledger) | Fixed settings attribute bugs causing silent config failures ([#326](https://github.com/arrobalytics/django-ledger/pull/326)) | Awaiting review |
-| [django-ledger](https://github.com/arrobalytics/django-ledger) | Template cleanup — collapsed duplicate status blocks, extracted reusable components, fixed HTML ([#327](https://github.com/arrobalytics/django-ledger/pull/327)) | Awaiting review |
+| [django-ledger](https://github.com/arrobalytics/django-ledger) | Template cleanup - collapsed duplicate status blocks, extracted reusable components, fixed HTML ([#327](https://github.com/arrobalytics/django-ledger/pull/327)) | Awaiting review |
 
 ## Tech Stack
 
