@@ -9,7 +9,6 @@ Bayes Business School graduate building AI-powered tools for the UK accounting i
 - Lead automation and AI initiatives at **NK & Co**, an accountancy practice in London
 - Build tools that streamline bookkeeping, compliance tracking, and payroll processes
 - Contribute to open-source accounting and finance projects
-- Integrate with **Sage**, **HMRC**, **Companies House**, and UK banking systems
 
 ## Featured Projects
 
