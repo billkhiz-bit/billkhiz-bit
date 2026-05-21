@@ -29,7 +29,7 @@ Bayes Business School graduate building AI-powered tools for the UK accounting i
 | Amazon Nova Hackathon | Sky Score | **Won blog-post prize ($200 AWS credits)** |
 | AWS AIdeas (10K+ submissions) | LedgerAgent | Semifinalist (top ~1,000) |
 | Google DeepMind - Measuring AGI | UK Bookkeeping Benchmark | Submitted (95% score), results June 1 |
-| Quran Foundation Hackathon | Siraj | In progress (deadline May 20) |
+| Quran Foundation Hackathon | Siraj Noor | Submitted (2026-05-21) |
 | Ramadan Hacks 2026 | Siraj | Submitted |
 | Cerebral Valley × MongoDB Agentic Hackathon | SkyMate | Submitted |
 | Contra × Zo Computer Challenge | The Ledger ([live](https://billkhiz.zo.space/)) | Submitted |
