@@ -40,8 +40,8 @@ Bayes Business School graduate building AI-powered tools for the UK accounting i
 | Repo | Contribution | Status |
 |------|-------------|--------|
 | [uk-chart-of-accounts](https://github.com/billkhiz-bit/uk-chart-of-accounts) | Published standalone UK CoA library to PyPI — 166 codes, VAT treatments, HMRC mappings, LLM export | [![PyPI](https://img.shields.io/pypi/v/uk-chart-of-accounts?style=flat-square)](https://pypi.org/project/uk-chart-of-accounts/) |
-| [django-ledger](https://github.com/arrobalytics/django-ledger) | Fixed settings attribute bugs causing silent config failures ([#326](https://github.com/arrobalytics/django-ledger/pull/326)) | Awaiting review |
-| [django-ledger](https://github.com/arrobalytics/django-ledger) | Template cleanup — collapsed duplicate status blocks, extracted reusable components, fixed HTML ([#327](https://github.com/arrobalytics/django-ledger/pull/327)) | Awaiting review |
+| [django-ledger](https://github.com/arrobalytics/django-ledger) | Fixed settings attribute bugs causing silent config failures ([#326](https://github.com/arrobalytics/django-ledger/pull/326)) | ✅ Merged |
+| [django-ledger](https://github.com/arrobalytics/django-ledger) | Template cleanup — collapsed duplicate status blocks, extracted reusable components, fixed HTML ([#327](https://github.com/arrobalytics/django-ledger/pull/327)) | Open |
 
 ## Tech Stack
 
