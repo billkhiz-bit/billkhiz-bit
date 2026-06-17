@@ -4,6 +4,8 @@
 
 Bayes Business School graduate building AI-powered tools for the UK accounting industry. I combine domain expertise in UK finance, HMRC compliance, and bookkeeping with hands-on development to solve real workflow problems.
 
+🔗 **Portfolio:** [bilalkhizar.pages.dev](https://bilalkhizar.pages.dev/)
+
 ## What I Do
 
 - Lead automation and AI initiatives at **NK & Co**, an accountancy practice in London
@@ -58,6 +60,7 @@ Bayes Business School graduate building AI-powered tools for the UK accounting i
 
 ## Connect
 
+- Portfolio: [bilalkhizar.pages.dev](https://bilalkhizar.pages.dev/)
 - Business: NK & Co Accountancy, London
 - X: [@cubitt33](https://x.com/cubitt33)
 - GitHub: [billkhiz-bit](https://github.com/billkhiz-bit)
